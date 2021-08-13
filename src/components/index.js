@@ -1,0 +1,5 @@
+export { default as Header } from './header'
+export { default as Socials } from './socials'
+export { default as Contact } from './contact'
+export { default as Card } from './card'
+export { default as Home } from './home'
